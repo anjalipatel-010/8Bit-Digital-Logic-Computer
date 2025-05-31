@@ -56,10 +56,10 @@ Watch a demonstration and explanation of the project:
 ## 📷 Visual Reference
 
 ### 🔌 Raw Circuit
-![Raw Circuit](./Images/8bit computer_page-0001.jpg)
+[![Raw Circuit](Images/8bit computer_page-0001.jpg)]
 
 ### 🏷️ Labeled Circuit
-![Labeled Circuit](./Images/8bit computer_page-0002.jpg)
+[![Labeled Circuit](Images/8bit computer_page-0002.jpg)]
 
 ### 🧾 Instruction Set
 
