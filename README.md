@@ -56,10 +56,10 @@ Watch a demonstration and explanation of the project:
 ## 📷 Visual Reference
 
 ### 🔌 Raw Circuit
-[![Raw Circuit](Images/8bit computer_page-0001.jpg)]
+[![Raw Circuit](Images/8bit_computer_page-0001.jpg)]
 
 ### 🏷️ Labeled Circuit
-[![Labeled Circuit](Images/8bit computer_page-0002.jpg)]
+![Labeled Circuit](Images/8bit_computer_page-0002.jpg)
 
 ### 🧾 Instruction Set
 
@@ -67,7 +67,7 @@ The following diagrams illustrate the instruction set architecture used by the 8
 
 | Instruction Set Page 1                             | Instruction Set Page 2                             |
 | -------------------------------------------------- | -------------------------------------------------- |
-| ![Instruction Set 1](./Images/8bit computer_page-0003.jpg) | ![Instruction Set 2](./Images/8bit computer_page-0004.jpg) |
+| ![Instruction Set 1](./Images/8bit_computer_page-0003.jpg) | ![Instruction Set 2](Images/8bit_computer_page-0004.jpg) |
 
 ---
 
