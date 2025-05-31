@@ -75,7 +75,7 @@ The following diagrams illustrate the instruction set architecture used by the 8
 
 For theoretical background, micro-operations, and design principles, refer to the research paper:
 
-👉 [Download research_document.pdf](https://github.com/anjalipatel-010/8Bit-Digital-Logic-Computer/raw/main/research_document.pdf)
+👉 [Document](Research-Document.pdf)
 
 ---
 
