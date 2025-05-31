@@ -1,6 +1,6 @@
 # 🖥️ 8-Bit Digital Logic Computer
 
-Welcome to the 8-Bit Digital Logic Computer project! This repository showcases the design and construction of a fundamental 8-bit computer built using basic digital circuits. It's an excellent resource for learning about digital electronics, computer architecture, and how data is processed and instructions are executed—bit by bit.
+This repository showcases the design and construction of a fundamental 8-bit computer built using basic digital circuits. It's an excellent resource for learning about digital electronics, computer architecture, and how data is processed and instructions are executed—bit by bit.
 
 ---
 
