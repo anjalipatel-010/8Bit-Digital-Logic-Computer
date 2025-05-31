@@ -61,7 +61,7 @@ Constructing this 8-bit computer involves using simple logic chips, such as the 
 
 For a detailed explanation and visual representation of the computer's design, refer to the PDF document:
 
-👉 [8bit\_computer.pdf](https://github.com/anjalipatel-010/8Bit-Digital-Logic-Computer/raw/main/8bit_computer.pdf)
+👉 [8bit\_computer.pdf](https://github.com/anjalipatel-010/8Bit-Digital-Logic-Computer/blob/main/8bit%20computer.pdf)
 
 This document includes:
 
